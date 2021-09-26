@@ -1,3 +1,3 @@
 # CalculadoraSimples
-HTML/bootstrap/CSS/JS
+HTML/BOOTSTRAP/CSS/JS
 Calculadora feita para treinar JavaScript
